@@ -2,6 +2,8 @@
   "name": "awesome-gci-app",
   "version": "0.1.0",
   "private": true,
+  "description": "An awesome React app made for Google Code In.",
+  "repository": "https://github.com/yashguptaz/Awesome-React-App-For-GCI-2019",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
